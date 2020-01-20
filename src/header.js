@@ -8,7 +8,7 @@ const header = () => {
 
     headerEle.innerHTML = `
     <div class = "logo">
-        <img src =  "../src/image/logo.png" alt ="lOgO"/>
+        <img src =  "../dist/image/logo.png" alt ="lOgO"/>
     </div>
     <nav class = "nav">
         <a href="#" class = "home-tab tab">HOME<a/>
