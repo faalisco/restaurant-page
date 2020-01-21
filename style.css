@@ -68,7 +68,7 @@ body {
 #home,
 #menu,
 #contact {
-  background: url(../dist/image/background.png);
+  background: url(image/background.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
